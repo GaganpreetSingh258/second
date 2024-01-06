@@ -1,0 +1,19 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "new appwrite project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appwrite",
+    "js"
+  ],
+  "author": "GaganpreetSingh",
+  "license": "ISC",
+  "dependencies": {
+    "appwrite": "^13.0.1",
+    "express": "^4.18.2"
+  }
+}
